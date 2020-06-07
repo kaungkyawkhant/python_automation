@@ -4,4 +4,4 @@ Python scripts for networking
 3. Linux Server
 
 # to copy this files use following command in termnal or command prompt
-git clone https://github.com/kaungkyawkhant/python_automation.git
+`git clone https://github.com/kaungkyawkhant/python_automation.git`
